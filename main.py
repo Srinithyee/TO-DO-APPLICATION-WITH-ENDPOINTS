@@ -18,6 +18,7 @@ test_tasks = [
     'name': 'to-do-2',
     'due': '2020-01-19',
     'status': 'in-progress'
+        
     }
 ]
 
